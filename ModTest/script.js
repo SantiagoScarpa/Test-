@@ -12,7 +12,6 @@ a[2,3,1]
   2^3 = 2
   3^1 = 3
 1,000,000,007
-
 */
 
 function RaisingNumber(arrLenght, arr) {
